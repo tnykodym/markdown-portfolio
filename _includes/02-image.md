@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![BPM Sample image](http://www.mcftech.com/wp-content/uploads/2014/08/BPMN-Sample-Workflow-1024x690.png)

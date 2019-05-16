@@ -4,8 +4,8 @@
   
   And now some regular text.
   
-  Task list
+### Task list:
   
-  - [ ] First task
-  - [ ] Second task
-  - [ ] Third task
+ [ ] First task
+ [ ] Second task
+ [ ] Third task

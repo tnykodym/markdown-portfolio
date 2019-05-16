@@ -1,4 +1,4 @@
-#This is first header
+# This is first header
 
 ## This is header <h2>
   
@@ -6,6 +6,6 @@
   
   Task list
   
-  - [] First task
-  - [] Second task
-  - [] Third task
+  - [ ] First task
+  - [ ] Second task
+  - [ ] Third task
